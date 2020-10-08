@@ -29,6 +29,13 @@ nucleotides are different from their equivalent in the other string.
 
 The Hamming distance between these two DNA strands is 7.
 
+# prerequisites
+
+1. postges
+2. bla
+
+download both and install
+
 # Implementation notes
 
 The Hamming distance is only defined for sequences of equal length, so
